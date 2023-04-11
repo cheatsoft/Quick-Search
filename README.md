@@ -1,6 +1,7 @@
 # Quick Search
-A browser extension disguised as a safety extension that allows searching google from a popup without having to open a new window.
+A browser extension disguised as a safety extension that allows searching Google from a popup without having to open a new window. In addition to being able to search Google through a popup, none of the searches appear in your browser history.
 
-TODO:
-- Resize google in iframe
-- Insert element into page to search instead of having to open popup
+## Coming Soon
+- Properly sized Google in iframe
+- Option insert into page instead of having to open popup
+- Context menu integration
